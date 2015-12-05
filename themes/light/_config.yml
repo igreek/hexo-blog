@@ -1,0 +1,38 @@
+menu:
+  首页: /
+  归档: /archives
+  工具: /tools
+  关于: /about
+  
+
+widgets:
+- search
+- category
+- intro
+- weibo
+- blogroll
+
+
+excerpt_link: 阅读全文
+
+plugins:
+- hexo-generator-feed
+- hexo-generator-sitemap
+
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+fancybox: true
+
+baidu_analytics: 7cfc00b7c335a9f7871dd41e34a5119a
+rss: http://blog.51igreek.com/atom.xml

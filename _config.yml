@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 极客伍’blog
-subtitle: 码农，程序猿，未来的昏析师 #网站副标题
-description: 没有最好，只有更好！
-author: igreek 
+title: 阿长小站
+subtitle: 程序猿，极客粉，未来的布道师
+description: 学习总结 思考感悟 知识管理
+author: greekw
 email: xhwwc397@163.com
 language: zh-Hans
 timezone: 
@@ -64,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: next
+theme: light
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -91,6 +91,14 @@ links:
   MacTalk: http://macshuo.com/
   
 popular_articles: true  
+
+plugins:
+- hexo-generator-feed
+- hexo-generator-sitemap
+
+#sitemap
+sitemap:
+  path: sitemap.xml
 
 duoshuo_shortname: igreek
 
