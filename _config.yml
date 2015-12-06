@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.51igreek.com/
+url: http://blog.greekw.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -127,4 +127,4 @@ duoshuo_hotartical: true
 duoshuo_share: true
 
 #百度统计
-baidu_analytics: 7cfc00b7c335a9f7871dd41e34a5119a
+baidu_analytics: 342455f7213d6823f6fb04e6524cf764
